@@ -15,7 +15,7 @@ const HeroSlider = () => {
         <SwiperSlide>
           <div className="w-full h-full relative">
             <img
-              src="https://images.pexels.com/photos/34714770/pexels-photo-34714770.jpeg"
+              src="https://media.istockphoto.com/id/1059650734/photo/happy-smiling-young-golden-retriever-dog-under-light-gray-plaid-pet-warms-under-a-blanket-in.jpg?s=612x612&w=0&k=20&c=jdyuWKX_m0EqMhAK8oUw4MqBogPJF078B4LaXNXd_0M="
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-black/40 flex items-center justify-center">
